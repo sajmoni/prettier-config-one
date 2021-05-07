@@ -8,8 +8,8 @@ semi: false
 
 _Why?_
 
- - Less visual clutter
- - Easier to move code around
+ - Less visual clutter.
+ - Easier to move code around.
  - Semicolons are not needed 99%+ of the time, and Prettier can insert them when they are.
 
 ---
@@ -32,5 +32,5 @@ singleQuote: true
 
 _Why?_
 
- - Less escaping needed, since it's more common for strings to contain double qoutes
- - Slightly less visual clutter
+ - Less escaping needed, since it's more common for strings to contain double qoutes.
+ - Slightly less visual clutter.
