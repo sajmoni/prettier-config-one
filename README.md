@@ -6,7 +6,7 @@
 semi: false
 ```
 
-Why?
+_Why?_
 
  - Less visual clutter
  - Easier to move code around
@@ -18,7 +18,7 @@ Why?
 trailingComma: "all"
 ```
 
-Why?
+_Why?_
 
  - Better git diff. Adding a new line won't affect the previous line.
  - Easier to move lines around.
@@ -30,7 +30,7 @@ Why?
 singleQuote: true
 ```
 
-Why?
+_Why?_
 
  - Less escaping needed, since it's more common for strings to contain double qoutes
  - Slightly less visual clutter
