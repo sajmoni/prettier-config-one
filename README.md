@@ -1,4 +1,6 @@
-# prettier-config-lollipop
+# prettier-config-one
+
+> My recommended minimal prettier config for all projects
 
 ## Options
 
