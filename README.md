@@ -8,9 +8,9 @@ semi: false
 
 _Why?_
 
- - Less visual clutter.
- - Easier to move code around.
- - Semicolons are not needed 99%+ of the time, and Prettier can insert them when they are.
+ - Less visual clutter
+ - Easier to move code around
+ - Semicolons are not needed 99%+ of the time, and Prettier can insert them when they are
 
 ---
 
@@ -20,9 +20,9 @@ trailingComma: "all"
 
 _Why?_
 
- - Better git diff. Adding a new line won't affect the previous line.
- - Easier to move lines around.
- - Code is always transpiled anyway, so lack of browser support is not relevant.
+ - Better git diff. Adding a new line won't affect the previous line
+ - Easier to move lines around
+ - Code is always transpiled anyway, so lack of browser support is irrelevant
 
 ---
 
@@ -32,5 +32,28 @@ singleQuote: true
 
 _Why?_
 
- - Less escaping needed, since it's more common for strings to contain double qoutes.
- - Slightly less visual clutter.
+ - Slightly less visual clutter
+
+## :package: Install
+
+**npm**
+
+```
+npm install prettier-config-one
+```
+
+**yarn**
+
+```
+yarn add prettier-config-one
+```
+
+## How to use
+
+In your package.json or prettierconfig
+
+```json
+"prettier": {
+ "extends": "prettier-config-one"
+}
+```
