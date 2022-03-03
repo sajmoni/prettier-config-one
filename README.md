@@ -36,18 +36,20 @@ _Why?_
 
  - Slightly less visual clutter
 
+---
+
 ## :package: Install
 
 **npm**
 
 ```
-npm install prettier-config-one
+npm install --save-dev prettier-config-one
 ```
 
 **yarn**
 
 ```
-yarn add prettier-config-one
+yarn add --dev prettier-config-one
 ```
 
 ## How to use
