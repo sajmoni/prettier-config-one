@@ -57,7 +57,5 @@ yarn add --dev prettier-config-one
 In your package.json or prettier config:
 
 ```json
-"prettier": {
-  "extends": "prettier-config-one"
-}
+"prettier": "prettier-config-one"
 ```
