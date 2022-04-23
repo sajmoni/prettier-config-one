@@ -4,37 +4,37 @@
 
 ## Options
 
-```js
+```yml
 semi: false
 ```
 
 _Why?_
 
- - Less visual clutter
- - Easier to move code around
- - Semicolons are not needed 99%+ of the time, and Prettier can insert them when they are
+- Less visual clutter
+- Easier to move code around
+- Semicolons are not needed 99%+ of the time, and Prettier can insert them when they are
 
 ---
 
-```js
+```yml
 trailingComma: "all"
 ```
 
 _Why?_
 
- - Better git diff. Adding a new line won't affect the previous line
- - Easier to move lines around
- - Code is always transpiled anyway, so lack of browser support is irrelevant
+- Better git diff. Adding a new line won't affect the previous line
+- Easier to move lines around
+- Code is always transpiled anyway, so lack of browser support is irrelevant
 
 ---
 
-```js
+```yml
 singleQuote: true
 ```
 
 _Why?_
 
- - Slightly less visual clutter
+- Slightly less visual clutter
 
 ---
 
@@ -54,10 +54,10 @@ yarn add --dev prettier-config-one
 
 ## How to use
 
-In your package.json or prettierconfig
+In your package.json or prettier config:
 
 ```json
 "prettier": {
- "extends": "prettier-config-one"
+  "extends": "prettier-config-one"
 }
 ```

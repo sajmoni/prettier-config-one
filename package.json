@@ -1,10 +1,10 @@
 {
-  "name": "prettier-config-lollipop",
+  "name": "prettier-config-one",
   "version": "0.0.0",
   "description": "Just another Prettier config",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "np --no-tests"
   },
   "repository": {
     "type": "git",
@@ -12,5 +12,8 @@
   },
   "keywords": [],
   "author": "sajmoni",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "np": "7.6.1"
+  }
 }
