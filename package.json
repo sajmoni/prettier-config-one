@@ -6,6 +6,9 @@
   "scripts": {
     "release": "np --no-tests"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sajmoni/prettier-config-lollipop.git"
