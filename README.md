@@ -1,6 +1,6 @@
 # prettier-config-one
 
-> My recommended minimal prettier config for all projects
+> My recommended prettier config
 
 ## Options
 
@@ -51,6 +51,8 @@ npm install --save-dev prettier-config-one
 ```
 yarn add --dev prettier-config-one
 ```
+
+---
 
 ## How to use
 
