@@ -1,7 +1,7 @@
 {
   "name": "prettier-config-one",
   "version": "0.1.0",
-  "description": "Just another Prettier config",
+  "description": "My recommended prettier config",
   "main": "index.js",
   "scripts": {
     "release": "np --no-tests"
