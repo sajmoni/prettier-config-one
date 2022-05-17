@@ -35,6 +35,8 @@ singleQuote: true
 _Why?_
 
 - Slightly less visual clutter
+- Doesn't require pressing "shift"
+- It's in the [Google style guide](https://google.github.io/styleguide/jsguide.html#features-strings-use-single-quotes)
 
 ---
 
