@@ -40,6 +40,16 @@ _Why?_
 
 ---
 
+```yml
+jsxSingleQuote: true
+```
+
+_Why?_
+
+- Consistent with `singleQuote`
+
+---
+
 ## :package: Install
 
 **npm**
