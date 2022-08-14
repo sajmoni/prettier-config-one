@@ -52,16 +52,8 @@ _Why?_
 
 ## :package: Install
 
-**npm**
-
 ```
 npm install --save-dev prettier-config-one
-```
-
-**yarn**
-
-```
-yarn add --dev prettier-config-one
 ```
 
 ---
@@ -71,5 +63,5 @@ yarn add --dev prettier-config-one
 In your package.json or prettier config:
 
 ```json
-"prettier": "prettier-config-one"
+  "prettier": "prettier-config-one"
 ```
