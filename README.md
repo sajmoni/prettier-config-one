@@ -50,6 +50,17 @@ _Why?_
 
 ---
 
+```yml
+singleAttributePerLine: true
+```
+
+_Why?_
+
+- Better git diff. Adding or removing props won't affect unrelated ones
+- More consistent to always have props on new lines
+
+---
+
 ## :package: Install
 
 ```
