@@ -11,9 +11,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sajmoni/prettier-config-lollipop.git"
+    "url": "git+https://github.com/sajmoni/prettier-config-one.git"
   },
-  "keywords": [],
+  "keywords": [
+    "prettier",
+    "config",
+    "no semi"
+  ],
   "author": "sajmoni",
   "license": "MIT",
   "devDependencies": {
