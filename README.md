@@ -17,18 +17,6 @@ _Why?_
 ---
 
 ```yml
-trailingComma: "all"
-```
-
-_Why?_
-
-- Better git diff. Adding a new line won't affect the previous line
-- Easier to move lines around
-- Code is always transpiled anyway, so lack of browser support is irrelevant
-
----
-
-```yml
 singleQuote: true
 ```
 
@@ -61,15 +49,23 @@ _Why?_
 
 ---
 
-## :package: Install
+## How to use - automatic setup
 
-```
-npm install --save-dev prettier-config-one
+**recommended**
+
+Use [setup-prettier](https://github.com/sajmoni/setup-prettier) to automatically add `prettier` and this config
+
+```console
+npx setup-prettier@latest
 ```
 
 ---
 
-## How to use
+## How to use - manual install
+
+```console
+npm install --save-dev prettier-config-one
+```
 
 In your package.json or prettier config:
 
