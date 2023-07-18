@@ -21,6 +21,6 @@
   "author": "sajmoni",
   "license": "MIT",
   "devDependencies": {
-    "np": "7.6.1"
+    "np": "8.0.4"
   }
 }
