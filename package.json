@@ -23,5 +23,8 @@
   "license": "MIT",
   "devDependencies": {
     "np": "8.0.4"
+  },
+  "peerDependencies": {
+    "prettier": "3.x"
   }
 }
