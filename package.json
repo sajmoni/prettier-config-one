@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "My recommended prettier config",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "release": "np --no-tests"
   },
