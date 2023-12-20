@@ -22,7 +22,7 @@
   "author": "sajmoni",
   "license": "MIT",
   "devDependencies": {
-    "np": "8.0.4"
+    "np": "9.2.0"
   },
   "peerDependencies": {
     "prettier": "3.x"
