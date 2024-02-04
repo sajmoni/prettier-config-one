@@ -59,9 +59,9 @@ _Why?_
 
 ---
 
-## How to use - automatic setup
+## How to use
 
-**recommended**
+### Automatic setup (recommended)
 
 Use [setup-prettier](https://github.com/sajmoni/setup-prettier) to automatically add `prettier` and this config
 
@@ -69,9 +69,7 @@ Use [setup-prettier](https://github.com/sajmoni/setup-prettier) to automatically
 npx setup-prettier@latest
 ```
 
----
-
-## How to use - manual install
+### Manual install
 
 ```console
 npm install --save-dev prettier-config-one
