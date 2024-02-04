@@ -3,4 +3,12 @@ export default {
   singleQuote: true,
   jsxSingleQuote: true,
   singleAttributePerLine: true,
+  overrides: [
+    {
+      files: ["tsconfig.json"],
+      options: {
+        parser: "jsonc",
+      },
+    },
+  ],
 };
