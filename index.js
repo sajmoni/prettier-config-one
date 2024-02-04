@@ -3,6 +3,7 @@ export default {
   singleQuote: true,
   jsxSingleQuote: true,
   singleAttributePerLine: true,
+  experimentalTernaries: true,
   overrides: [
     {
       files: ["tsconfig.json"],

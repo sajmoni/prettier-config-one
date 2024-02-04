@@ -49,6 +49,16 @@ _Why?_
 
 ---
 
+```yml
+experimentalTernaries: true
+```
+
+_Why?_
+
+- Supposedly better readability
+
+---
+
 ## How to use - automatic setup
 
 **recommended**
